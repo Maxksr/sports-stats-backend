@@ -16,7 +16,7 @@ The project focuses on backend development, REST API design, authentication, and
 - CRUD operations for application entities
 - Pagination implemented for player data retrieval
 - Global exception handling
-- Layered architecture (Controller, Service, Repository)
+- Layered architecture 
 
 ## Technologies
 
