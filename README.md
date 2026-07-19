@@ -14,7 +14,7 @@ The project focuses on backend development, REST API design, authentication, and
 - Player statistics tracking
 - Leaderboard system
 - CRUD operations for application entities
-- Pagination support for data retrieval
+- Pagination implemented for player data retrieval
 - Global exception handling
 - Layered architecture (Controller, Service, Repository)
 
