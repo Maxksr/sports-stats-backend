@@ -25,20 +25,9 @@ The project focuses on backend development, REST API design, authentication, and
 - Spring Boot
 - Spring Security
 - JWT Authentication
-- Spring Data JPA / Hibernate
-- REST APIs
-- Maven
+- Spring Data JPA / Hibernat
 
 ### Database
 - H2 Database (development/testing)
 - JPA/Hibernate ORM
 - Relational database concepts
-
-### Tools
-- IntelliJ IDEA
-- Postman
-- Git
-
-## Architecture
-
-The application follows a layered Spring Boot architecture:
